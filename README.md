@@ -9,5 +9,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 
 
-https://imdb-clone-9tt0ndwwf-mukeshsodhano-gmailcom.vercel.app/.
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=MukeshOdhano&show_icons=true&theme=radical" />
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshOdhano&layout=compact" />
+ ## 
+
+## Programming Languages
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+
