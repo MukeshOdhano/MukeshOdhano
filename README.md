@@ -1,3 +1,5 @@
+## 💡 About me
+I'm a passionate developer skilled in crafting intuitive and visually captivating user interfaces. I leverage HTML, CSS, JavaScript, and frameworks like React.js to build dynamic web experiences. My passion for design extends to Figma and UI/UX principles, ensuring a focus on user-centricity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-kumar-87a12b19a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/2022Mukeshkumar) 
